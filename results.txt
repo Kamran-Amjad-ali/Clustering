@@ -1,0 +1,17 @@
+Number of clusters is 2. Top terms per cluster using k-means clustering:
+Cluster 0:  room  staff  hotel  nice  parking  pool  like  rooms  service  clean
+Cluster 1:  location  great  good  clean  staff  nice  comfortable  pool  apartment  close
+
+
+The topic results through NMF are as follows
+
+Topic 0:
+room clean really bed check door floor nice view food
+Topic 1:
+location good great clean pool close apartment comfortable excellent hollywood
+Topic 2:
+staff friendly nice helpful great clean service excellent comfortable loved
+Topic 3:
+hotel beautiful star service best stay bar pool like amazing
+Topic 4:
+parking valet night expensive price apartment like little did car
